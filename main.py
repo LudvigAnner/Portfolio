@@ -1,9 +1,19 @@
-import numpy as np
-import matplotlib.pyplot as plt
+from import_tools import import_tool
 
-if __name__ == 'main':
+def main():
+    import_tool = data_import()
+    import_tool.save_nasdaq_stocklist('stockholm')
+    import_tool.load_stocklist()
+    for import_tool.stocklist
+    import_tool.parse_stock_data(import_tool.stocklist[0, 1])
+
+    (timestamps, data) = import_tool.load_stock_data(import_tool.stocklist[0, 1])
 
 
 
-class data_import():
-    def __init__():
+
+
+
+
+
+main()

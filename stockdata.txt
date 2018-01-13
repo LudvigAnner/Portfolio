@@ -1,0 +1,362 @@
+AAK,AAK,3500
+ABB Ltd,ABB,2700
+ÅF B,AF B,2700
+Ahlsell,AHSL,2300
+Alfa Laval,ALFA,2700
+Autoliv SDB,ALIV SDB,3300
+Ahlstrom-Munksjö Oyj,AM1S,1700
+Arjo B,ARJO B,4500
+ASSA ABLOY B,ASSA B,2300
+Atlas Copco A,ATCO A,2700
+Atlas Copco B,ATCO B,2700
+Atrium Ljungberg B,ATRLJ B,8600
+Attendo,ATT,4500
+Axfood,AXFO,5300
+Axis,AXIS,9500
+Avanza Bank Holding,AZA,8700
+AstraZeneca,AZN,4500
+Fast. Balder B,BALD B,8600
+Betsson B,BETS B,5700
+BillerudKorsnäs,BILL,1700
+Boliden,BOL,1700
+Bonava A,BONAV A,8600
+Bonava B,BONAV B,8600
+Bravida Holding,BRAV,2700
+Castellum,CAST,8600
+Collector,COLL,8700
+Com Hem Holding,COMH,6500
+Dometic Group,DOM,3700
+Elekta B,EKTA B,4500
+Electrolux A,ELUX A,3700
+Electrolux B,ELUX B,3700
+Ericsson A,ERIC A,9500
+Ericsson B,ERIC B,9500
+Essity A,ESSITY A,3700
+Essity B,ESSITY B,3700
+Evolution Gaming Group,EVO,5700
+Fabege,FABG,8600
+Fingerprint Cards B,FING B,2700
+Getinge B,GETI B,4500
+Hemfosa Fastigheter,HEMF,8600
+Hemfosa Fastigheter Pref,HEMF PREF,8600
+Hexagon B,HEXA B,9500
+Hennes & Mauritz B,HM B,5300
+Holmen A,HOLM A,1700
+Holmen B,HOLM B,1700
+HEXPOL B,HPOL B,1300
+Hufvudstaden A,HUFV A,8600
+Hufvudstaden C,HUFV C,8600
+Husqvarna A,HUSQ A,3700
+Husqvarna B,HUSQ B,3700
+ICA Gruppen,ICA,5300
+Indutrade,INDT,2700
+Industrivärden A,INDU A,8700
+Industrivärden C,INDU C,8700
+Intrum,INTRUM,8700
+Investor A,INVE A,8700
+Investor B,INVE B,8700
+JM,JM,8600
+Kindred Group,KIND SDB,5700
+Kinnevik A,KINV A,8700
+Kinnevik B,KINV B,8700
+Kungsleden,KLED,8600
+Klövern A,KLOV A,8600
+Klövern B,KLOV B,8600
+Klövern pref,KLOV PREF,8600
+Latour B,LATO B,8700
+Lifco B,LIFCO B,2700
+Loomis B,LOOM B,2700
+Lundin Mining Corporation,LUMI,1700
+Lundbergföretagen B,LUND B,8700
+Lundin Petroleum,LUPE,0500
+Melker Schörling,MELK,8700
+Millicom Int. Cellular SDB,MIC SDB,6500
+Modern Times Group A,MTG A,5500
+Modern Times Group B,MTG B,5500
+Munters Group,MTRS,2700
+NCC A,NCC A,2300
+NCC B,NCC B,2300
+Nordea Bank,NDA SEK,8300
+NetEnt B,NET B,5700
+NIBE Industrier B,NIBE B,2300
+Nobia,NOBI,3700
+Oriflame Holding,ORI,3700
+Peab B,PEAB B,2300
+Pandox B,PNDX B,8600
+Ratos A,RATO A,8700
+Ratos B,RATO B,8700
+Resurs Holding,RESURS,8300
+SAAB B,SAAB B,2700
+Sagax A,SAGA A,8600
+Sagax B,SAGA B,8600
+Sagax D,SAGA D,8600
+Sagax pref,SAGA PREF,8600
+Sandvik,SAND,2700
+SCA A,SCA A,3700
+SCA B,SCA B,3700
+SEB A,SEB A,8300
+SEB C,SEB C,8300
+Securitas B,SECU B,2700
+Sv. Handelsbanken A,SHB A,8300
+Sv. Handelsbanken B,SHB B,8300
+Skanska B,SKA B,2300
+SKF A,SKF A,2700
+SKF B,SKF B,2700
+Swedish Orphan Biovitrum,SOBI,4500
+SSAB A,SSAB A,1700
+SSAB B,SSAB B,1700
+Stora Enso A,STE A,1700
+Stora Enso R,STE R,1700
+SWECO A,SWEC A,2300
+SWECO B,SWEC B,2300
+Swedbank A,SWED A,8300
+Swedish Match,SWMA,3700
+Tele2 A,TEL2 A,6500
+Tele2 B,TEL2 B,6500
+Telia Company,TELIA,6500
+Thule Group,THULE,3700
+Tieto Oyj,TIEN,9500
+Trelleborg B,TREL B,2700
+Volvo A,VOLV A,2700
+Volvo B,VOLV B,2700
+Wallenstam B,WALL B,8600
+Wihlborgs Fastigheter,WIHL,8600
+AcadeMedia,ACAD,5300
+Acando B,ACAN B,9500
+Addtech B,ADDT B,2700
+AddLife B,ALIF B,4500
+Alimak Group,ALIG,2700
+Ambea,AMBEA,4500
+Addnode Group B,ANOD B,9500
+Africa Oil,AOI,0500
+AQ Group,AQ,2700
+Arcam,ARCM,2700
+Alligator Bioscience,ATORX,4500
+Beijer Alma B,BEIA B,2700
+Beijer Ref B,BEIJ B,2700
+Bergman & Beving B,BERG B,2700
+Besqab,BESQ,8600
+Bilia A,BILI A,5300
+BioArctic B,BIOA B,4500
+BioGaia B,BIOG B,4500
+Biotage,BIOT,4500
+Byggmax Group,BMAX,5300
+Boozt,BOOZT,5300
+Bufab,BUFAB,2700
+Bulten,BULTEN,3300
+Bure Equity,BURE,8700
+Camurus,CAMX,4500
+Capio,CAPIO,4500
+Catella A,CAT A,8700
+Catella B,CAT B,8700
+Catena,CATE,8600
+Cavotec,CCC,2700
+CellaVision,CEVI,4500
+Cherry B,CHER B,5700
+Cloetta B,CLA B,3500
+Clas Ohlson B,CLAS B,5300
+CLX Communications,CLX,9500
+Concentric,COIC,2700
+Coor Service Management Hold.,COOR,2700
+Corem Property Group A,CORE A,8600
+Corem Property Group B,CORE B,8600
+Corem Property Group Pref,CORE PREF,8600
+Creades A,CRED A,8700
+Catena Media,CTM,5500
+D. Carnegie & Co B,DCAR B,8600
+Diös Fastigheter,DIOS,8600
+Duni,DUNI,3700
+Dustin Group,DUST,5300
+Eastnine,EAST,8700
+Elanders B,ELAN B,2700
+Eltel,ELTEL,2700
+Internationella Engelska Skola,ENG,5300
+EnQuest PLC,ENQ,0500
+Fagerhult,FAG,2300
+Ferronordic Machines,FNM,2700
+Fenix Outdoor International B,FOI B,3700
+Fast Partner,FPAR,8600
+Fast Partner Pref,FPAR PREF,8600
+G5 Entertainment,G5EN,9500
+Garo,GARO,2700
+Gränges,GRNG,3300
+Gunnebo,GUNN,2700
+Handicare Group,HANDI,4500
+HEBA B,HEBA B,8600
+HiQ International,HIQ,9500
+Haldex,HLDX,3300
+Hansa Medical,HMED,4500
+HMS Networks,HMS,9500
+Hoist Finance,HOFI,8700
+Hexatronic Group,HTRO,9500
+Humana,HUM,4500
+I.A.R Systems Group,IAR B,9500
+Instalco Intressenter,INSTAL,2700
+Inwido,INWI,2300
+ITAB Shop Concept B,ITAB B,2700
+Invisio Communications,IVSO,9500
+KABE B,KABE B,3700
+KappAhl,KAHL,5300
+Karo Pharma,KARO,4500
+Knowit,KNOW,9500
+Lagercrantz Group B,LAGR B,2700
+Lindab International,LIAB,2300
+Lucara Diamond Corp,LUC,1700
+Lundin Gold,LUG,1700
+Medicover B,MCOV B,4500
+Mekonomen,MEKO,3300
+Momentum Group B,MMGR B,2700
+Mr Green & Co,MRG,5700
+Midsona A,MSON A,3700
+Midsona B,MSON B,3700
+Medivir B,MVIR B,4500
+Mycronic,MYCR,2700
+Nordax Group,NDX,8300
+Net Insight B,NETI B,9500
+New Wave B,NEWA B,3700
+NGEx Resources,NGQ,1700
+Nederman Holding,NMAN,2300
+Nobina,NOBINA,2700
+Nolato B,NOLA B,2700
+NP3 Fastigheter,NP3,8600
+Nordic Waterproofing Holding,NWG,2300
+OEM International B,OEM B,2700
+Oncopeptides,ONCO,4500
+Oscar Properties Holding,OP,8600
+Oscar Properties Holding PREF,OP PREF,8600
+Oscar Properties Holding PREFB,OP PREFB,8600
+Opus Group,OPUS,2700
+Öresund,ORES,8700
+Orexo,ORX,4500
+Platzer Fastigheter Holding B,PLAZ B,8600
+Probi,PROB,4500
+BlackPearl Resources SDB,PXXS SDB,0500
+Qliro Group,QLRO,5300
+RaySearch Laboratories B,RAY B,4500
+Recipharm,RECI B,4500
+Rezidor Hotel Group,REZT,5700
+SAS,SAS,5700
+SAS PREF,SAS PREF,5700
+Scandi Standard,SCST,3500
+SECTRA B,SECT B,4500
+Scandic Hotels Group,SHOT,5700
+SkiStar B,SKIS B,5700
+Semafo,SMF,1700
+Serneke Group B,SRNKE B,2300
+SSM Holding,SSM,8600
+Starbreeze A,STAR A,9500
+Starbreeze B,STAR B,9500
+Svolder A,SVOL A,8700
+Svolder B,SVOL B,8700
+Swedol B,SWOL B,5300
+Systemair,SYSR,2300
+Tethys Oil,TETY,0500
+TF Bank,TFBANK,8300
+Tobii,TOBII,9500
+Traction  B,TRAC B,8700
+Troax Group,TROAX,2300
+VBG GROUP B,VBG B,3300
+Victoria Park A,VICP A,8600
+Victoria Park B,VICP B,8600
+Victoria Park Pref,VICP PREF,8600
+Vitec Software Group B,VIT B,9500
+Vitrolife,VITR,4500
+Vostok New Ventures,VNV SDB,8700
+Volati,VOLO,2700
+Volati Pref,VOLO PREF,2700
+Wilson Therapeutics,WTX,4500
+Xvivo Perfusion,XVIVO,4500
+Active Biotech,ACTI,4500
+Agromino,AGRO,3500
+Anoto Group,ANOT,9500
+Arise,ARISE,7500
+Arctic Paper,ARP,1700
+Actic Group,ATIC,5700
+A3 Allmänna IT- och Telekom.,ATRE,6500
+B3IT Management,B3IT,9500
+Bactiguard Holding,BACTI B,4500
+Balco Group,BALCO,2300
+BE Group,BEGR,1700
+Beijer Electronics Group,BELE,2700
+BioInvent International,BINV,4500
+BONESUPPORT HOLDING,BONEX,4500
+Bong,BONG,2700
+Björn Borg,BORG,3700
+Boule Diagnostics,BOUL,4500
+Bergs Timber B,BRG B,1700
+BTS Group B,BTS B,2700
+Christian Berner Tech Trade B,CBTT B,2700
+Concordia Maritime B,CCOR B,2700
+Consilium B,CONS B,2700
+C-RAD B,CRAD B,4500
+CTT Systems,CTT,2700
+Dedicare B,DEDI,4500
+DORO,DORO,9500
+Duroc B,DURC B,2700
+Edgeware,EDGE,9500
+Electra Gruppen,ELEC,5300
+Elos Medtech B,ELOS B,4500
+Endomines,ENDO,1700
+Enea,ENEA,9500
+Eniro,ENRO,5500
+Eniro pref,ENRO PREF,5500
+Eolus Vind B,EOLU B,0500
+Episurf B,EPIS B,4500
+Etrion,ETX,7500
+eWork Group,EWRK,2700
+Feelgood Svenska,FEEL,4500
+FM Mattsson Mora Group B,FMM B,2300
+FormPipe Software,FPIP,9500
+GHP Specialty Care,GHP,4500
+Havsfrun Investment B,HAV B,8700
+ICTA,ICTA,2700
+Invuo Technologies,INVUO,9500
+Image Systems,IS,2700
+Karolinska Development B,KDEV,4500
+Lammhults Design Group B,LAMM B,3700
+MedCap,MCAP,4500
+Malmbergs Elektriska B,MEAB B,2700
+Midway A,MIDW A,8700
+Midway B,MIDW B,8700
+Mips,MIPS,3700
+Moberg Pharma,MOB,4500
+MQ Holding,MQ,5300
+Micro Systemation B,MSAB B,9500
+MSC Group B,MSC B,9500
+MultiQ International,MULQ,9500
+NAXS,NAXS,8700
+NGS Group,NGS,8700
+NOTE,NOTE,2700
+NOVOTEK B,NTEK B,9500
+NeuroVive Pharmaceutical,NVP,4500
+Oasmia Pharmaceutical,OASM,4500
+Odd Molly International,ODD,3700
+Ortivus A,ORTI A,4500
+Ortivus B,ORTI B,4500
+Proact IT Group,PACT,9500
+Poolia B,POOL B,2700
+Precise Biometrics,PREC,2700
+Prevas B,PREV B,9500
+Pricer B,PRIC B,2700
+Profilgruppen B,PROF B,1700
+Rejlers,REJL B,2700
+RNB RETAIL AND BRANDS,RNBS,5300
+Rottneros,RROS,1700
+Saniona,SANION,4500
+Semcon,SEMC,2700
+Sensys Gatso Group,SENS,2700
+SinterCast,SINT,2700
+Softronic B,SOF B,9500
+Sportamore,SPOR,5300
+Strax,STRAX,3700
+Stockwik Förvaltning,STWK,9500
+Svedbergs B,SVED B,2300
+Studsvik,SVIK,2700
+TradeDoubler,TRAD,5500
+Trention,TRENT,3300
+Uniflex B,UFLX B,2700
+Venue Retail Group B,VRG B,5300
+Viking Supply Ships B,VSSAB B,2700
+Wise Group,WISE,2700
+XANO Industri B,XANO B,2700
+ZetaDisplay,ZETA,9500
